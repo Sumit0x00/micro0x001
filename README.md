@@ -31,7 +31,7 @@ I'm **Sumit Singh**, a hacker & Security Researcher. I'm on my way to becoming a
 - i have experience in ,Mobile Pentesing, bug Hunting ,Social engineering,spy agent.
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
-- Reach me out at **x**
+- Reach me out at **[X](https://x.com/micro0xff)**
 
 </details>
 <br>
@@ -49,7 +49,7 @@ I'm **Sumit Singh**, a hacker & Security Researcher. I'm on my way to becoming a
 
 👉 Building & Contributing To Open Source Projects
 
-👉 Currently Learning mobile pentesting & web3 
+👉 Currently Learning Mobile pentesting & web3  & Cloud security 
 
 `Updating:`  Journey to Cybersecurity Specialist.
 
